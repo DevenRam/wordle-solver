@@ -36,7 +36,7 @@
     // import dot from '../chipper/dist/js/dot/js/main.js';
     // import axon from '../chipper/dist/js/axon/js/main.js';
     // import phetCore from '../chipper/dist/js/phet-core/js/main.js';
-
+    import totalTarseTree from './data/tarse.tree.total.js';
     import totalTraceTree from './data/trace.tree.total.js';
     import totalSlateTree from './data/slate.tree.total.js';
     import totalCrateTree from './data/crate.tree.total.js';
@@ -333,6 +333,7 @@
               orientation: 'vertical',
               children: [
                 new scenery.Text( 'Fastest Average', { font: selectionHeaderFont, fill: gray, layoutOptions: { bottomMargin: 5 } } ),
+                createTreeButton( totalTarseTree ),
                 createTreeButton( totalSaletTree ),
                 createTreeButton( totalReastTree ),
                 createTreeButton( totalCrateTree ),
