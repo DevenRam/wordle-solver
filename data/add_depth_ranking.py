@@ -1,78 +1,77 @@
+import json5
 import re
 
-def compute_depth_and_ranking(node, current_depth=0):
-    """Compute depth and ranking for each node in the tree"""
-    if isinstance(node, str):
-        # Leaf node: word is found at this depth
-        # Return depth=1 (1 more step needed) and counts=[1] (1 word solvable in 1 step)
-        return 1, [1]
-    
-    if not isinstance(node, dict) or 'map' not in node:
-        return 1, [1]
-    
-    # Internal node: compute from children
-    min_depth = float('inf')
-    total_counts = []
-    
-    for outcome, child in node['map'].items():
-        child_depth, child_counts = compute_depth_and_ranking(child, current_depth + 1)
-        min_depth = min(min_depth, child_depth)
+def compute_depth_and_ranking(node, is_root=False):
+    if node is None or isinstance(node, str):
+        # This shouldn't happen in our tree structure
+        return 0, {'counts': [1]}
+    else:
+        min_depth = float('inf')
+        ranking_counts = [0, 0]  # Start with [0, 0] like the JavaScript
         
-        # Extend total_counts array as needed to accommodate child_counts + 1 position
-        needed_length = len(child_counts) + 1
-        while len(total_counts) < needed_length:
-            total_counts.append(0)
+        for score, child in node['map'].items():
+            if isinstance(child, str):
+                if score == '22222':
+                    # Perfect score: addSelf() -> counts[0]++
+                    ranking_counts[0] += 1
+                    min_depth = min(min_depth, 1)
+                else:
+                    # Direct word match: addString() -> counts[1]++
+                    ranking_counts[1] += 1
+                    min_depth = min(min_depth, 1)
+            else:
+                # Recursive case: addRanking(child_ranking)
+                child_depth, child_ranking = compute_depth_and_ranking(child, False)
+                min_depth = min(min_depth, child_depth + 1)
+                
+                # addRanking logic: counts[i + 1] += child_ranking.counts[i]
+                child_counts = child_ranking['counts']
+                for i in range(len(child_counts)):
+                    # Extend ranking_counts if needed
+                    while len(ranking_counts) <= i + 1:
+                        ranking_counts.append(0)
+                    ranking_counts[i + 1] += child_counts[i]
         
-        # Add child counts to total, shifting by 1 position since we need one more step
-        for i, count in enumerate(child_counts):
-            total_counts[i + 1] += count
-    
-    # Remove trailing zeros (but keep at least one element)
-    while len(total_counts) > 1 and total_counts[-1] == 0:
-        total_counts.pop()
-    
-    # The depth is the minimum steps needed to solve any word from this node
-    node_depth = min_depth + 1
-    
-    # Add depth and ranking to the node
-    node['depth'] = min_depth
-    node['ranking'] = {'counts': total_counts}
-    
-    return node_depth, total_counts
+        # Clean up trailing zeros like the JavaScript does
+        while len(ranking_counts) > 1 and ranking_counts[-1] == 0:
+            ranking_counts.pop()
+            
+        node['depth'] = min_depth
+        node['ranking'] = {'counts': ranking_counts}
+        return node['depth'], node['ranking']
 
-def parse_js_object(content):
-    """Simple parser for JavaScript object literals"""
-    # This is a simplified parser - for production use, you'd want a proper JS parser
-    # But for our specific format, this should work
-    
-    # Remove export default and trailing semicolon
-    content = content.strip()
-    if content.startswith('export default '):
-        content = content[len('export default '):]
-    content = content.rstrip(';').strip()
-    
-    # Use eval with some safety (only for trusted input!)
-    # Replace unquoted keys with quoted keys for Python
-    def quote_keys(match):
+def normalize_for_json5(content):
+    """Normalize JavaScript object to be more json5-friendly"""
+    # Quote all numeric keys to avoid mixed quoting issues
+    def quote_numeric_keys(match):
         key = match.group(1)
-        if key.isdigit() or key in ['guess', 'map', 'depth', 'ranking', 'counts']:
+        if key.isdigit():
             return f'"{key}":'
         return match.group(0)
     
-    # Quote unquoted property names
-    content = re.sub(r'(\w+):', quote_keys, content)
-    
-    # Replace JavaScript object syntax with Python dict syntax
-    content = content.replace('true', 'True').replace('false', 'False').replace('null', 'None')
-    
-    try:
-        return eval(content)
-    except:
-        print("Failed to parse JavaScript object. Using alternative approach...")
-        return None
+    # Find unquoted numeric keys and quote them
+    content = re.sub(r'\b(\d+):', quote_numeric_keys, content)
+    return content
 
-def format_js_output(obj, indent=0):
-    """Format Python object back to JavaScript syntax matching our style"""
+# Read and parse the file
+import sys
+filename = sys.argv[1] if len(sys.argv) > 1 else 'tarse.tree.total.js'
+with open(filename, 'r', encoding='utf-8') as f:
+    content = f.read()
+    if content.startswith('export default '):
+        content = content[len('export default '):]
+    # Remove trailing semicolon and whitespace
+    content = content.rstrip().rstrip(';').rstrip()
+    
+    # Normalize for json5 parsing
+    content = normalize_for_json5(content)
+    
+    tree = json5.loads(content)
+
+compute_depth_and_ranking(tree, is_root=True)
+
+# Write back with proper formatting (restore unquoted numeric keys that don't start with 0)
+def format_js(obj, indent=0):
     if isinstance(obj, str):
         return f'"{obj}"'
     elif isinstance(obj, (int, float)):
@@ -80,12 +79,8 @@ def format_js_output(obj, indent=0):
     elif isinstance(obj, list):
         if not obj:
             return "[]"
-        items = [format_js_output(item, indent) for item in obj]
-        if len(obj) <= 3:  # Short arrays on one line
-            return "[" + ", ".join(items) + "]"
-        else:
-            indent_str = "    " * (indent + 1)
-            return "[\n" + indent_str + f",\n{indent_str}".join(items) + "\n" + ("    " * indent) + "]"
+        items = [format_js(item, indent) for item in obj]
+        return "[" + ", ".join(items) + "]"
     elif isinstance(obj, dict):
         if not obj:
             return "{}"
@@ -95,7 +90,7 @@ def format_js_output(obj, indent=0):
         next_indent_str = "    " * (indent + 1)
         
         for key, value in obj.items():
-            # Format key - same logic as convert_tree_to_js.py
+            # Format key according to our rules
             if key in ['guess', 'map', 'depth', 'ranking', 'counts']:
                 formatted_key = key  # unquoted for property names
             elif key.isdigit() and not key.startswith('0'):
@@ -103,41 +98,14 @@ def format_js_output(obj, indent=0):
             else:
                 formatted_key = f'"{key}"'  # quoted for keys starting with 0
             
-            formatted_value = format_js_output(value, indent + 1)
+            formatted_value = format_js(value, indent + 1)
             items.append(f"{next_indent_str}{formatted_key}: {formatted_value}")
         
-        # Handle compact single-item maps
-        if len(items) == 1 and isinstance(list(obj.values())[0], str):
-            key, value = list(obj.items())[0]
-            if key.isdigit() and not key.startswith('0'):
-                formatted_key = key
-            else:
-                formatted_key = f'"{key}"'
-            return f"{{ {formatted_key}: \"{value}\" }}"
-        
         return "{\n" + ",\n".join(items) + "\n" + indent_str + "}"
-    else:
-        return str(obj)
 
-# Read the current file
-with open('tarse.tree.total.js', 'r', encoding='utf-8') as f:
-    content = f.read()
-
-# Parse the JavaScript object
-tree = parse_js_object(content)
-
-if tree is None:
-    print("Failed to parse the file. Please check the format.")
-    exit(1)
-
-# Compute depth and ranking
-print("Computing depth and ranking...")
-compute_depth_and_ranking(tree)
-
-# Write back the updated tree
-with open('tarse.tree.total.js', 'w', encoding='utf-8') as f:
+with open(filename, 'w', encoding='utf-8') as f:
     f.write('export default ')
-    f.write(format_js_output(tree))
+    f.write(format_js(tree))
     f.write(';\n')
 
-print("Depth and ranking added to tarse.tree.total.js")
+print(f"Depth and ranking added to {filename}")

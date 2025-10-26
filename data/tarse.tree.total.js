@@ -17,7 +17,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 4]
+                                counts: [1, 3]
                             }
                         },
                         "02002": "boffo",
@@ -31,7 +31,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 4]
+                                counts: [1, 3]
                             }
                         },
                         "02010": "hobby",
@@ -48,7 +48,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01000": "known",
@@ -68,7 +68,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 21, 10]
+                        counts: [0, 24, 7]
                     }
                 },
                 "00001": {
@@ -85,7 +85,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 8]
+                        counts: [1, 7]
                     }
                 },
                 "00020": {
@@ -99,7 +99,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02222": "jowly",
@@ -124,7 +124,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6, 6]
+                        counts: [1, 6, 5]
                     }
                 },
                 "00021": "dolly",
@@ -141,7 +141,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02001": "polyp",
@@ -157,7 +157,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01101": {
@@ -168,7 +168,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01110": "plonk",
@@ -184,13 +184,13 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         }
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 12, 8]
+                        counts: [0, 16, 4]
                     }
                 },
                 "00012": {
@@ -202,7 +202,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00011": "moldy",
@@ -233,7 +233,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00222": "child",
@@ -250,7 +250,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02222": "click",
@@ -261,7 +261,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6, 2]
+                        counts: [1, 6, 1]
                     }
                 },
                 "00212": "blind",
@@ -279,7 +279,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "00101": "mochi",
@@ -301,7 +301,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         10002: {
@@ -315,14 +315,14 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 22222: "winch"
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 1, 2]
+                                counts: [1, 1, 1]
                             }
                         },
                         10012: "pinch",
@@ -334,12 +334,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            18,
-                            7,
-                            2
-                        ]
+                        counts: [0, 21, 5, 1]
                     }
                 },
                 "00102": {
@@ -351,7 +346,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00101": {
@@ -365,7 +360,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         20001: "dinky",
@@ -377,7 +372,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6, 2]
+                        counts: [0, 7, 1]
                     }
                 },
                 "00120": {
@@ -392,7 +387,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "00201": "hilly",
@@ -401,7 +396,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 3]
+                        counts: [0, 4, 2]
                     }
                 },
                 "00121": {
@@ -413,7 +408,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00110": {
@@ -433,7 +428,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 11]
+                        counts: [1, 10]
                     }
                 },
                 "00112": {
@@ -444,7 +439,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02000": {
@@ -461,7 +456,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 5]
+                                counts: [1, 4]
                             }
                         },
                         "02002": "hunch",
@@ -473,7 +468,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02020": "puppy",
@@ -486,7 +481,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "02012": "punch",
@@ -498,7 +493,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02220": "jumpy",
@@ -513,7 +508,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22002: "bunch",
@@ -525,7 +520,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 13, 14]
+                        counts: [0, 18, 9]
                     }
                 },
                 "02001": {
@@ -539,7 +534,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22202: "dummy",
@@ -550,7 +545,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 2]
+                        counts: [1, 5, 1]
                     }
                 },
                 "02020": {
@@ -561,7 +556,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02021": "dully",
@@ -578,7 +573,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 "02200": {
@@ -589,7 +584,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02220": "quill",
@@ -603,7 +598,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02102": {
@@ -614,7 +609,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02110": "pupil",
@@ -632,7 +627,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02101": "hokum",
@@ -643,7 +638,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7, 2]
+                        counts: [1, 7, 1]
                     }
                 },
                 "01002": {
@@ -657,7 +652,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00101": "pound",
@@ -667,7 +662,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [0, 5, 1]
                     }
                 },
                 "01022": {
@@ -681,14 +676,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "would"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "01010": {
@@ -702,7 +697,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02202": "flunk",
@@ -717,7 +712,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22202: "plunk",
@@ -726,7 +721,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7, 4]
+                        counts: [1, 8, 2]
                     }
                 },
                 "01012": "cloud",
@@ -739,7 +734,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01100": {
@@ -753,7 +748,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "01102": "undid",
@@ -767,7 +762,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 20001: "goody",
@@ -783,7 +778,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 20200: "going",
@@ -801,14 +796,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "guppy"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 22020: "gully",
@@ -825,7 +820,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 10001: {
@@ -837,7 +832,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10010: "logon",
@@ -852,7 +847,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "owing",
@@ -860,7 +855,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 10201: {
@@ -871,7 +866,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10210: {
@@ -885,7 +880,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01222": "lying",
@@ -893,7 +888,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 10100: {
@@ -904,7 +899,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10101: {
@@ -920,7 +915,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 10110: "lingo",
@@ -933,7 +928,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 12001: {
@@ -947,14 +942,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "pudgy"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 12010: "bulgy",
@@ -969,7 +964,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 11001: "dough",
@@ -982,19 +977,13 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 }
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    30,
-                    215,
-                    72,
-                    2
-                ]
+                counts: [1, 63, 210, 44, 1]
             }
         },
         "00002": {
@@ -1013,7 +1002,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 "00001": {
@@ -1027,7 +1016,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "00020": {
@@ -1043,7 +1032,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02010": "pudge",
@@ -1051,7 +1040,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [0, 5, 1]
                     }
                 },
                 "00021": {
@@ -1063,7 +1052,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00010": "fugue",
@@ -1081,7 +1070,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22202: "penne",
@@ -1089,7 +1078,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [1, 4, 1]
                     }
                 },
                 "00201": "ounce",
@@ -1102,7 +1091,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00120": "nudge",
@@ -1118,14 +1107,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "pixie"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "02001": {
@@ -1136,7 +1125,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02020": "midge",
@@ -1149,7 +1138,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02220": {
@@ -1166,7 +1155,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         10012: "juice",
@@ -1174,7 +1163,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 2]
+                        counts: [1, 5, 1]
                     }
                 },
                 "02100": "niche",
@@ -1190,7 +1179,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "01020": "beige",
@@ -1205,7 +1194,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01210": "genie",
@@ -1218,7 +1207,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20000: "levee",
@@ -1257,7 +1246,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "boule",
@@ -1265,7 +1254,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [1, 4, 1]
                     }
                 },
                 10020: "bulge",
@@ -1278,7 +1267,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10100: "uncle",
@@ -1290,7 +1279,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 12000: "bible",
@@ -1306,7 +1295,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 11001: {
@@ -1318,19 +1307,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 11010: "glide"
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    25,
-                    71,
-                    10
-                ]
+                counts: [0, 42, 59, 5]
             }
         },
         "00001": {
@@ -1347,7 +1331,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00222": "juked",
@@ -1361,7 +1345,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 4]
+                                counts: [1, 3]
                             }
                         },
                         "02010": {
@@ -1372,7 +1356,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02122": "keyed",
@@ -1387,7 +1371,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "01100": "check",
@@ -1401,7 +1385,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 12, 11]
+                        counts: [0, 16, 7]
                     }
                 },
                 "00002": {
@@ -1421,7 +1405,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         11202: "enemy",
@@ -1430,7 +1414,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 9, 2]
+                        counts: [1, 9, 1]
                     }
                 },
                 "00001": "needy",
@@ -1444,7 +1428,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00022": {
@@ -1455,7 +1439,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00021": {
@@ -1468,7 +1452,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00010": {
@@ -1485,7 +1469,7 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 "02222": "hokey",
@@ -1493,7 +1477,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2, 2]
+                                counts: [1, 2, 1]
                             }
                         },
                         "02001": "covey",
@@ -1505,7 +1489,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02200": "boded",
@@ -1517,7 +1501,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02100": {
@@ -1532,7 +1516,7 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 3]
+                                        counts: [1, 2]
                                     }
                                 },
                                 "00001": "yoked",
@@ -1543,7 +1527,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 5, 3]
+                                counts: [0, 6, 2]
                             }
                         },
                         "02101": {
@@ -1554,7 +1538,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02110": {
@@ -1566,7 +1550,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "02111": "cooed",
@@ -1581,7 +1565,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22110: "mooed",
@@ -1595,7 +1579,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         11001: "chemo",
@@ -1603,12 +1587,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            11,
-                            20,
-                            5
-                        ]
+                        counts: [0, 18, 15, 3]
                     }
                 },
                 "00012": {
@@ -1624,14 +1603,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "woven"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "00011": {
@@ -1645,7 +1624,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02002": "money",
@@ -1658,7 +1637,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7, 2]
+                        counts: [0, 8, 1]
                     }
                 },
                 "00200": {
@@ -1671,7 +1650,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00220": "below",
@@ -1683,7 +1662,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00210": {
@@ -1698,7 +1677,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00100": {
@@ -1713,7 +1692,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02001": "leggy",
@@ -1730,7 +1709,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 4]
+                                counts: [1, 3]
                             }
                         },
                         "01001": "fleck",
@@ -1744,7 +1723,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 13, 6]
+                        counts: [1, 14, 4]
                     }
                 },
                 "00102": "lumen",
@@ -1758,7 +1737,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00120": "elbow",
@@ -1793,7 +1772,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         20002: "dicey",
@@ -1809,7 +1788,7 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 "02222": "gibed",
@@ -1818,7 +1797,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3, 2]
+                                counts: [1, 3, 1]
                             }
                         },
                         10010: {
@@ -1829,7 +1808,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         10200: "mimed",
@@ -1838,12 +1817,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            5,
-                            7,
-                            2
-                        ]
+                        counts: [0, 8, 5, 1]
                     }
                 },
                 "02002": {
@@ -1855,7 +1829,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02001": {
@@ -1872,14 +1846,14 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 22222: "wined"
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 1, 2]
+                                counts: [1, 1, 1]
                             }
                         },
                         "00201": "mined",
@@ -1889,12 +1863,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            4,
-                            1,
-                            2
-                        ]
+                        counts: [0, 5, 1, 1]
                     }
                 },
                 "02010": "video",
@@ -1906,7 +1875,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02210": "oiled",
@@ -1938,14 +1907,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         22222: "liven"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 3]
+                        counts: [1, 1, 2]
                     }
                 },
                 "02101": "lined",
@@ -1962,7 +1931,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 "01002": {
@@ -1974,7 +1943,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01001": {
@@ -1991,7 +1960,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 8]
+                        counts: [1, 7]
                     }
                 },
                 "01010": "emoji",
@@ -2006,7 +1975,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "01100": "devil",
@@ -2022,7 +1991,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20011: "peony",
@@ -2035,7 +2004,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22001: {
@@ -2046,7 +2015,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22200: "piled",
@@ -2063,7 +2032,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 10001: "upend",
@@ -2095,7 +2064,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10110: "loped",
@@ -2108,7 +2077,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 11000: "equip",
@@ -2116,13 +2085,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    27,
-                    159,
-                    54,
-                    9
-                ]
+                counts: [0, 50, 157, 37, 5]
             }
         },
         "00020": {
@@ -2139,7 +2102,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 21011: "smush",
@@ -2153,7 +2116,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10001: {
@@ -2165,7 +2128,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10010: "mousy",
@@ -2177,7 +2140,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10200: "noisy",
@@ -2193,7 +2156,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11000: {
@@ -2207,14 +2170,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "plush"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 11001: "hussy",
@@ -2223,12 +2186,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    15,
-                    12,
-                    2
-                ]
+                counts: [0, 21, 7, 1]
             }
         },
         "00022": {
@@ -2242,7 +2200,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00001": "dense",
@@ -2259,14 +2217,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "noose"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "00100": {
@@ -2279,7 +2237,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00101": "dowse",
@@ -2291,7 +2249,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00111": "douse",
@@ -2304,12 +2262,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    10,
-                    10,
-                    2
-                ]
+                counts: [0, 14, 7, 1]
             }
         },
         "00021": {
@@ -2324,7 +2277,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00120": "newsy",
@@ -2337,7 +2290,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 8, 2]
+                counts: [1, 8, 1]
             }
         },
         "00010": {
@@ -2355,7 +2308,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00010": "husky",
@@ -2369,7 +2322,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 9, 2]
+                        counts: [0, 10, 1]
                     }
                 },
                 "00002": {
@@ -2380,7 +2333,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00001": {
@@ -2395,7 +2348,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00020": {
@@ -2407,7 +2360,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00010": {
@@ -2427,7 +2380,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 11]
+                        counts: [1, 10]
                     }
                 },
                 "00012": "scowl",
@@ -2440,7 +2393,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00200": {
@@ -2451,7 +2404,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00220": "synod",
@@ -2466,7 +2419,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00101": {
@@ -2477,7 +2430,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00120": {
@@ -2488,7 +2441,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00110": {
@@ -2500,7 +2453,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02000": {
@@ -2511,7 +2464,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02001": {
@@ -2522,7 +2475,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02010": "disco",
@@ -2534,7 +2487,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02120": "bison",
@@ -2549,7 +2502,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "01002": {
@@ -2563,14 +2516,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "swill"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "01001": {
@@ -2581,7 +2534,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01011": "solid",
@@ -2597,7 +2550,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "01101": {
@@ -2610,7 +2563,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01120": "scion",
@@ -2632,14 +2585,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "swoop"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 10022: "spool",
@@ -2653,7 +2606,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10200: "sunup",
@@ -2670,7 +2623,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 11002: "spill",
@@ -2679,12 +2632,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    23,
-                    79,
-                    6
-                ]
+                counts: [0, 44, 61, 3]
             }
         },
         "00012": {
@@ -2699,7 +2647,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00001": {
@@ -2710,7 +2658,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00020": {
@@ -2723,7 +2671,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00010": "ensue",
@@ -2737,7 +2685,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00210": "snide",
@@ -2756,14 +2704,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "slime"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "01000": "solve",
@@ -2778,7 +2726,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10200: {
@@ -2790,7 +2738,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10220: "spine",
@@ -2799,12 +2747,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    13,
-                    19,
-                    2
-                ]
+                counts: [0, 20, 13, 1]
             }
         },
         "00011": {
@@ -2822,7 +2765,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22020: "sinew",
@@ -2832,7 +2775,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 2]
+                        counts: [1, 5, 1]
                     }
                 },
                 20022: "sweep",
@@ -2844,7 +2787,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20010: {
@@ -2855,7 +2798,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20011: {
@@ -2866,7 +2809,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20220: "soled",
@@ -2881,7 +2824,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20111: "spell",
@@ -2894,7 +2837,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 22022: "sheep",
@@ -2908,7 +2851,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10020: {
@@ -2937,12 +2880,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    15,
-                    26,
-                    2
-                ]
+                counts: [1, 21, 20, 1]
             }
         },
         "00200": {
@@ -2958,7 +2896,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00010": {
@@ -2969,7 +2907,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00011": "world",
@@ -2982,7 +2920,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02100": "myrrh",
@@ -2994,7 +2932,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01001": {
@@ -3005,7 +2943,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01010": {
@@ -3019,7 +2957,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02212": "dorky",
@@ -3028,7 +2966,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "01011": {
@@ -3040,7 +2978,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01100": "murky",
@@ -3054,7 +2992,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 21001: "curly",
@@ -3066,7 +3004,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10000: "birch",
@@ -3076,12 +3014,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    12,
-                    21,
-                    2
-                ]
+                counts: [0, 21, 13, 1]
             }
         },
         "00202": {
@@ -3098,7 +3031,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01001": {
@@ -3109,7 +3042,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01010": "hiree",
@@ -3123,7 +3056,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11000: "purge",
@@ -3132,7 +3065,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 9, 6]
+                counts: [0, 12, 3]
             }
         },
         "00201": {
@@ -3153,14 +3086,14 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 22222: "jerry"
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 1, 2]
+                                counts: [1, 1, 1]
                             }
                         },
                         10021: "merry",
@@ -3171,12 +3104,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            6,
-                            1,
-                            2
-                        ]
+                        counts: [0, 7, 1, 1]
                     }
                 },
                 "00002": {
@@ -3189,7 +3117,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00001": "derby",
@@ -3222,13 +3150,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    14,
-                    14,
-                    1,
-                    2
-                ]
+                counts: [0, 15, 14, 1, 1]
             }
         },
         "00222": {
@@ -3243,7 +3165,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02000": "worse",
@@ -3253,7 +3175,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 5, 2]
+                counts: [0, 6, 1]
             }
         },
         "00221": "verso",
@@ -3288,7 +3210,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 4]
+                counts: [1, 3]
             }
         },
         "00211": {
@@ -3323,7 +3245,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00001": {
@@ -3335,7 +3257,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00020": "runny",
@@ -3348,7 +3270,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00200": {
@@ -3362,7 +3284,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02201": "krill",
@@ -3374,7 +3296,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01200": "whirl",
@@ -3387,7 +3309,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22220: "pricy",
@@ -3397,7 +3319,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7, 6]
+                        counts: [1, 9, 3]
                     }
                 },
                 "00201": {
@@ -3408,7 +3330,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00220": {
@@ -3419,7 +3341,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00222": {
@@ -3432,7 +3354,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00110": "incur",
@@ -3445,7 +3367,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02001": "rough",
@@ -3457,7 +3379,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02110": "robin",
@@ -3472,7 +3394,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00201": "proxy",
@@ -3485,7 +3407,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "00221": "proof",
@@ -3502,7 +3424,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 12, 5]
+                        counts: [0, 14, 3]
                     }
                 },
                 "01001": {
@@ -3516,7 +3438,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "growl",
@@ -3524,7 +3446,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "01020": {
@@ -3535,7 +3457,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01022": {
@@ -3546,7 +3468,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01010": {
@@ -3561,14 +3483,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "frown"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "01011": "grown",
@@ -3580,7 +3502,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01220": "rhino",
@@ -3595,7 +3517,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01101": {
@@ -3606,7 +3528,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01120": "irony",
@@ -3628,7 +3550,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 21010: "drown",
@@ -3650,7 +3572,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01202": "fjord",
@@ -3660,19 +3582,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [1, 4, 1]
                     }
                 },
                 11020: "frond"
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    27,
-                    66,
-                    17
-                ]
+                counts: [0, 45, 56, 9]
             }
         },
         "00102": {
@@ -3690,7 +3607,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00001": "crude",
@@ -3704,7 +3621,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00201": {
@@ -3715,7 +3632,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00220": {
@@ -3727,7 +3644,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00100": "rifle",
@@ -3748,7 +3665,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         10112: "broke",
@@ -3756,7 +3673,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 2]
+                        counts: [1, 5, 1]
                     }
                 },
                 "01001": "drove",
@@ -3775,14 +3692,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "prize"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 20201: "pride",
@@ -3797,14 +3714,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "prove"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 21020: "prone",
@@ -3816,7 +3733,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10200: "gripe",
@@ -3824,12 +3741,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    15,
-                    23,
-                    6
-                ]
+                counts: [0, 23, 18, 3]
             }
         },
         "00101": {
@@ -3849,7 +3761,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 5]
+                                counts: [1, 4]
                             }
                         },
                         "00002": {
@@ -3861,7 +3773,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "00001": "fryer",
@@ -3873,7 +3785,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00200": "fewer",
@@ -3892,7 +3804,7 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 3]
+                                        counts: [1, 2]
                                     }
                                 },
                                 "00001": "cover",
@@ -3903,7 +3815,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 5, 3]
+                                counts: [0, 6, 2]
                             }
                         },
                         "02001": "foyer",
@@ -3919,14 +3831,14 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 22222: "rower"
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 1, 2]
+                                counts: [1, 1, 1]
                             }
                         },
                         "02100": "wooer",
@@ -3947,18 +3859,13 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         }
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            17,
-                            18,
-                            5
-                        ]
+                        counts: [0, 22, 15, 3]
                     }
                 },
                 "00002": {
@@ -3972,7 +3879,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02000": "roved",
@@ -3982,7 +3889,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [0, 5, 1]
                     }
                 },
                 "00001": {
@@ -4000,7 +3907,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         12001: "reedy",
@@ -4013,7 +3920,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         11011: "rodeo",
@@ -4022,7 +3929,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 9, 4]
+                        counts: [1, 10, 2]
                     }
                 },
                 "00020": "reply",
@@ -4040,7 +3947,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "lover",
@@ -4052,7 +3959,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 9, 2]
+                        counts: [1, 9, 1]
                     }
                 },
                 "00011": {
@@ -4063,7 +3970,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00200": {
@@ -4078,7 +3985,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00202": {
@@ -4104,7 +4011,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00100": {
@@ -4126,7 +4033,7 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 "02222": "hiker",
@@ -4136,7 +4043,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 4, 2]
+                                counts: [1, 4, 1]
                             }
                         },
                         12021: {
@@ -4148,7 +4055,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         12010: "fiery",
@@ -4162,19 +4069,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         11012: "redid"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            9,
-                            9,
-                            2
-                        ]
+                        counts: [1, 11, 7, 1]
                     }
                 },
                 "00102": "irked",
@@ -4190,7 +4092,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "01001": "eider",
@@ -4201,7 +4103,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 3]
+                        counts: [0, 6, 2]
                     }
                 },
                 "00110": {
@@ -4231,7 +4133,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02001": "ruder",
@@ -4247,7 +4149,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01002": "urged",
@@ -4261,7 +4163,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01010": {
@@ -4274,7 +4176,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 20000: {
@@ -4288,14 +4190,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "boxer"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 20002: "breed",
@@ -4307,7 +4209,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20100: "biker",
@@ -4324,7 +4226,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 10002: "orbed",
@@ -4336,13 +4238,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    19,
-                    98,
-                    40,
-                    7
-                ]
+                counts: [0, 32, 99, 29, 4]
             }
         },
         "00120": {
@@ -4356,7 +4252,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00011": "brusk",
@@ -4369,7 +4265,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00211": "brisk",
@@ -4381,7 +4277,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 8, 4]
+                counts: [0, 10, 2]
             }
         },
         "00122": {
@@ -4395,7 +4291,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 5]
+                counts: [1, 4]
             }
         },
         "00121": {
@@ -4410,14 +4306,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22222: "press"
             },
             depth: 1,
             ranking: {
-                counts: [0, 2, 2]
+                counts: [1, 2, 1]
             }
         },
         "00110": {
@@ -4431,7 +4327,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00002": {
@@ -4442,7 +4338,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00001": "risky",
@@ -4456,7 +4352,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00100": "visor",
@@ -4468,7 +4364,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 9, 6]
+                counts: [0, 12, 3]
             }
         },
         "00112": {
@@ -4498,7 +4394,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22200: "sewer",
@@ -4512,7 +4408,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 21001: "sneer",
@@ -4526,7 +4422,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 12022: "resin",
@@ -4539,7 +4435,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 11010: {
@@ -4550,7 +4446,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11012: "risen",
@@ -4558,7 +4454,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 7, 13]
+                counts: [0, 12, 8]
             }
         },
         "02000": {
@@ -4582,7 +4478,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 12]
+                        counts: [1, 11]
                     }
                 },
                 "00002": {
@@ -4593,7 +4489,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00001": "madam",
@@ -4605,7 +4501,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00010": {
@@ -4623,7 +4519,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 9]
+                        counts: [1, 8]
                     }
                 },
                 "00011": "panda",
@@ -4637,7 +4533,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00100": {
@@ -4651,7 +4547,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00020": "balmy",
@@ -4665,7 +4561,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         20100: "gauzy",
@@ -4674,7 +4570,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6, 4]
+                        counts: [0, 8, 2]
                     }
                 },
                 "00101": {
@@ -4689,7 +4585,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         "02222": "madly",
@@ -4702,7 +4598,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "badly",
@@ -4711,7 +4607,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 5]
+                        counts: [1, 6, 3]
                     }
                 },
                 "00120": "nanny",
@@ -4729,7 +4625,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22202: "mangy",
@@ -4737,7 +4633,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 2]
+                        counts: [1, 5, 1]
                     }
                 },
                 "00111": {
@@ -4748,7 +4644,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01000": {
@@ -4760,7 +4656,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01100": "happy",
@@ -4776,7 +4672,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 20010: {
@@ -4788,7 +4684,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 20100: {
@@ -4799,7 +4695,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20101: "caddy",
@@ -4814,7 +4710,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10010: {
@@ -4827,7 +4723,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 10100: "wacky",
@@ -4839,12 +4735,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    15,
-                    66,
-                    11
-                ]
+                counts: [0, 29, 57, 6]
             }
         },
         "02002": {
@@ -4861,7 +4752,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02202": "maize",
@@ -4870,7 +4761,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "00020": "dance",
@@ -4890,14 +4781,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "maple"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "00120": "lance",
@@ -4914,7 +4805,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10000: {
@@ -4925,7 +4816,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10010: "cadge",
@@ -4934,12 +4825,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    15,
-                    8,
-                    4
-                ]
+                counts: [0, 19, 6, 2]
             }
         },
         "02001": {
@@ -4960,7 +4846,7 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 "00121": "maxed",
@@ -4973,14 +4859,14 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 20121: "faxed"
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 4, 4]
+                                counts: [0, 6, 2]
                             }
                         },
                         "02001": "bayed",
@@ -4992,7 +4878,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02200": "faced",
@@ -5009,14 +4895,14 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 22222: "waxed"
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 1, 2]
+                                counts: [1, 1, 1]
                             }
                         },
                         22010: "waked",
@@ -5025,12 +4911,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            7,
-                            7,
-                            6
-                        ]
+                        counts: [0, 9, 8, 3]
                     }
                 },
                 "00001": {
@@ -5047,14 +4928,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "waged"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [1, 4, 1]
                     }
                 },
                 "00010": {
@@ -5068,7 +4949,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02021": {
@@ -5079,7 +4960,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02221": "naked",
@@ -5089,7 +4970,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 4]
+                        counts: [1, 5, 2]
                     }
                 },
                 "00100": "cameo",
@@ -5109,14 +4990,14 @@ export default {
                                     },
                                     depth: 1,
                                     ranking: {
-                                        counts: [0, 2]
+                                        counts: [1, 1]
                                     }
                                 },
                                 22222: "lazed"
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 1, 2]
+                                counts: [1, 1, 1]
                             }
                         },
                         22220: "lacey",
@@ -5127,12 +5008,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [
-                            0,
-                            6,
-                            1,
-                            2
-                        ]
+                        counts: [1, 6, 1, 1]
                     }
                 },
                 "01001": {
@@ -5144,7 +5020,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01010": "laden",
@@ -5159,14 +5035,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "pawed"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 20001: "paged",
@@ -5184,14 +5060,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "vaped"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 10001: "gaped",
@@ -5199,13 +5075,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    9,
-                    26,
-                    18,
-                    8
-                ]
+                counts: [0, 15, 28, 14, 4]
             }
         },
         "02020": {
@@ -5221,7 +5091,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 7]
+                counts: [1, 6]
             }
         },
         "02022": {
@@ -5252,7 +5122,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00002": "basin",
@@ -5270,7 +5140,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00101": "nasal",
@@ -5285,14 +5155,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "savvy"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "01001": "sandy",
@@ -5303,12 +5173,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    13,
-                    6,
-                    2
-                ]
+                counts: [0, 16, 4, 1]
             }
         },
         "02012": {
@@ -5320,7 +5185,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         "02011": {
@@ -5335,7 +5200,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02120": "samey",
@@ -5347,14 +5212,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22222: "based"
             },
             depth: 1,
             ranking: {
-                counts: [0, 3, 4]
+                counts: [1, 4, 2]
             }
         },
         "02200": {
@@ -5368,7 +5233,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02002": {
@@ -5379,7 +5244,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02022": "harpy",
@@ -5395,7 +5260,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22002: {
@@ -5407,7 +5272,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 22100: "carom",
@@ -5417,7 +5282,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 9, 9]
+                counts: [0, 13, 5]
             }
         },
         "02202": {
@@ -5429,7 +5294,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         "02201": {
@@ -5443,7 +5308,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00021": "harem",
@@ -5468,7 +5333,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 6, 6]
+                counts: [0, 7, 5]
             }
         },
         "02220": {
@@ -5479,7 +5344,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         "02222": "parse",
@@ -5495,7 +5360,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 20002: "rally",
@@ -5510,7 +5375,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20100: {
@@ -5521,7 +5386,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20112: "randy",
@@ -5537,7 +5402,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10002: {
@@ -5548,7 +5413,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10010: "cairn",
@@ -5566,7 +5431,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 11001: "mayor",
@@ -5574,7 +5439,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 14, 17]
+                counts: [0, 20, 11]
             }
         },
         "02102": {
@@ -5586,7 +5451,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         "02101": {
@@ -5605,7 +5470,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 4]
+                                counts: [1, 3]
                             }
                         },
                         "00101": "paper",
@@ -5619,7 +5484,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 8, 4]
+                        counts: [0, 9, 3]
                     }
                 },
                 "00022": {
@@ -5633,14 +5498,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "razed"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "00021": {
@@ -5651,7 +5516,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00220": {
@@ -5665,7 +5530,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02221": "raven",
@@ -5673,7 +5538,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "00222": "raved",
@@ -5685,7 +5550,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20020: {
@@ -5696,7 +5561,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 21020: "gayer",
@@ -5719,12 +5584,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    4,
-                    22,
-                    8
-                ]
+                counts: [0, 9, 20, 5]
             }
         },
         "02122": "raise",
@@ -5741,7 +5601,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10001: "laser",
@@ -5750,7 +5610,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3, 2]
+                counts: [0, 4, 1]
             }
         },
         "01000": {
@@ -5766,7 +5626,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00002": "human",
@@ -5778,7 +5638,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00020": {
@@ -5789,7 +5649,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00022": {
@@ -5800,7 +5660,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00010": {
@@ -5813,7 +5673,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00012": {
@@ -5824,7 +5684,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00011": {
@@ -5840,13 +5700,13 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         }
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "00200": {
@@ -5858,7 +5718,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00210": {
@@ -5869,7 +5729,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00211": "inlay",
@@ -5890,7 +5750,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 11]
+                        counts: [1, 10]
                     }
                 },
                 "00101": {
@@ -5905,7 +5765,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01200": "bland",
@@ -5915,7 +5775,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 2]
+                        counts: [0, 6, 1]
                     }
                 },
                 "00120": {
@@ -5929,7 +5789,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00221": "plaid",
@@ -5938,7 +5798,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "00122": "plain",
@@ -5957,7 +5817,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "02002": "woman",
@@ -5970,7 +5830,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02200": {
@@ -5985,7 +5845,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "02100": "loamy",
@@ -6002,7 +5862,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01020": {
@@ -6017,7 +5877,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "01010": "amigo",
@@ -6032,7 +5892,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01100": {
@@ -6046,7 +5906,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "aloud",
@@ -6058,7 +5918,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6, 2]
+                        counts: [1, 6, 1]
                     }
                 },
                 "01101": "along",
@@ -6072,7 +5932,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20022: "chain",
@@ -6086,7 +5946,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 20101: {
@@ -6097,7 +5957,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20120: "claim",
@@ -6111,7 +5971,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 22001: "conga",
@@ -6127,7 +5987,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 10001: {
@@ -6138,7 +5998,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10011: "acing",
@@ -6151,7 +6011,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10110: "iliac",
@@ -6163,7 +6023,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 12100: {
@@ -6177,14 +6037,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "vocal"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 11000: "achoo",
@@ -6192,12 +6052,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    28,
-                    98,
-                    10
-                ]
+                counts: [0, 55, 76, 5]
             }
         },
         "01002": {
@@ -6232,7 +6087,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00101": {
@@ -6244,7 +6099,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00110": "anime",
@@ -6260,7 +6115,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02222": "blame",
@@ -6269,7 +6124,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "02201": {
@@ -6280,7 +6135,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02220": "plane",
@@ -6293,7 +6148,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02120": "alone",
@@ -6307,7 +6162,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01101": "addle",
@@ -6323,7 +6178,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10201: "adage",
@@ -6333,12 +6188,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    16,
-                    28,
-                    2
-                ]
+                counts: [0, 23, 22, 1]
             }
         },
         "01001": {
@@ -6354,7 +6204,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "02022": {
@@ -6368,7 +6218,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02222": "penal",
@@ -6376,7 +6226,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "02010": {
@@ -6389,7 +6239,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "02011": {
@@ -6402,7 +6252,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "02222": "pedal",
@@ -6414,7 +6264,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02122": "decal",
@@ -6428,7 +6278,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01020": "cheap",
@@ -6442,7 +6292,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01010": {
@@ -6455,7 +6305,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01012": "angel",
@@ -6467,7 +6317,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01210": {
@@ -6478,7 +6328,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01120": {
@@ -6489,7 +6339,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01122": "ideal",
@@ -6502,7 +6352,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01111": {
@@ -6513,7 +6363,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22010: "mecca",
@@ -6530,7 +6380,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11012: "email",
@@ -6544,18 +6394,13 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 }
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    15,
-                    42,
-                    2
-                ]
+                counts: [1, 29, 28, 1]
             }
         },
         "01020": {
@@ -6578,7 +6423,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 10212: "plasm",
@@ -6597,7 +6442,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         20222: "abash",
@@ -6605,7 +6450,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 3]
+                        counts: [1, 2, 2]
                     }
                 },
                 11210: {
@@ -6616,18 +6461,13 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 }
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    11,
-                    8,
-                    3
-                ]
+                counts: [0, 14, 6, 2]
             }
         },
         "01022": {
@@ -6656,7 +6496,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         "01010": {
@@ -6673,7 +6513,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "00201": "chaos",
@@ -6686,7 +6526,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00210": {
@@ -6698,7 +6538,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00211": "snack",
@@ -6714,7 +6554,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00102": "sumac",
@@ -6726,7 +6566,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00110": "unsay",
@@ -6743,7 +6583,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01201": {
@@ -6755,7 +6595,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01210": "snail",
@@ -6770,7 +6610,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10201: "scamp",
@@ -6782,7 +6622,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 18, 27]
+                counts: [0, 26, 19]
             }
         },
         "01012": {
@@ -6797,7 +6637,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00201": "snake",
@@ -6828,7 +6668,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 9, 10]
+                counts: [0, 10, 9]
             }
         },
         "01011": {
@@ -6871,7 +6711,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10102: "koran",
@@ -6883,7 +6723,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11010: "viral",
@@ -6895,14 +6735,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 21202: "agree"
             },
             depth: 1,
             ranking: {
-                counts: [0, 11, 7]
+                counts: [0, 14, 4]
             }
         },
         "01202": "aerie",
@@ -6916,7 +6756,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 4]
+                counts: [1, 3]
             }
         },
         "01220": "bursa",
@@ -6929,7 +6769,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         "01100": {
@@ -6952,7 +6792,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         20211: "cramp",
@@ -6968,14 +6808,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         10110: "vicar"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 12, 4]
+                        counts: [1, 13, 2]
                     }
                 },
                 "00002": {
@@ -6989,7 +6829,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01212": "fraud",
@@ -6997,7 +6837,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "00001": {
@@ -7010,7 +6850,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00020": {
@@ -7024,7 +6864,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "prank",
@@ -7034,7 +6874,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [1, 4, 1]
                     }
                 },
                 "00022": "grand",
@@ -7048,7 +6888,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00200": {
@@ -7062,7 +6902,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "00210": "acorn",
@@ -7080,7 +6920,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 "00102": "hoard",
@@ -7094,7 +6934,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02010": "ulnar",
@@ -7109,7 +6949,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01001": "drawl",
@@ -7121,7 +6961,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01100": {
@@ -7134,7 +6974,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 20000: "brava",
@@ -7148,7 +6988,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20202: "broad",
@@ -7166,7 +7006,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 10010: "urban",
@@ -7174,12 +7014,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    20,
-                    55,
-                    8
-                ]
+                counts: [0, 33, 46, 4]
             }
         },
         "01102": {
@@ -7198,14 +7033,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "grave"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "02201": "brake",
@@ -7217,7 +7052,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02210": {
@@ -7231,14 +7066,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "craze"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "02100": "argue",
@@ -7254,14 +7089,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "glare"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "01100": {
@@ -7273,7 +7108,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 22200: "drape",
@@ -7283,12 +7118,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    6,
-                    11,
-                    6
-                ]
+                counts: [0, 11, 9, 3]
             }
         },
         "01101": {
@@ -7316,7 +7146,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02021": {
@@ -7327,7 +7157,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02010": {
@@ -7340,7 +7170,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "02012": "pearl",
@@ -7356,7 +7186,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01020": {
@@ -7370,7 +7200,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         10012: "creak",
@@ -7378,7 +7208,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [0, 3, 1]
                     }
                 },
                 "01021": "clear",
@@ -7392,7 +7222,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01210": {
@@ -7403,7 +7233,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01211": "alder",
@@ -7416,7 +7246,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01110": "arced",
@@ -7430,12 +7260,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    14,
-                    27,
-                    2
-                ]
+                counts: [0, 21, 21, 1]
             }
         },
         "01120": {
@@ -7462,7 +7287,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         "01110": {
@@ -7478,7 +7303,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00002": "scary",
@@ -7491,7 +7316,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00110": "snark",
@@ -7506,14 +7331,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10010: "shark"
             },
             depth: 1,
             ranking: {
-                counts: [0, 7, 8]
+                counts: [0, 10, 5]
             }
         },
         "01112": {
@@ -7555,7 +7380,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00022": "thong",
@@ -7567,7 +7392,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00201": "thigh",
@@ -7580,7 +7405,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00100": {
@@ -7591,7 +7416,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00101": "tight",
@@ -7608,14 +7433,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "tummy"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "02100": "tulip",
@@ -7627,7 +7452,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01001": "tough",
@@ -7640,7 +7465,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10110: "tonic",
@@ -7649,12 +7474,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    12,
-                    13,
-                    2
-                ]
+                counts: [0, 19, 7, 1]
             }
         },
         20002: {
@@ -7674,7 +7494,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02200": "thine",
@@ -7683,7 +7503,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 9, 2]
+                counts: [0, 10, 1]
             }
         },
         20001: {
@@ -7713,7 +7533,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00012": "tepid",
@@ -7735,7 +7555,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10010: "tempo",
@@ -7748,7 +7568,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 18, 11]
+                counts: [0, 20, 9]
             }
         },
         20020: "tipsy",
@@ -7761,7 +7581,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         20011: {
@@ -7772,7 +7592,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         20200: {
@@ -7786,7 +7606,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 5]
+                counts: [1, 4]
             }
         },
         20202: {
@@ -7797,7 +7617,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         20201: {
@@ -7809,7 +7629,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         20220: "torso",
@@ -7830,7 +7650,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01000": {
@@ -7841,7 +7661,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01001": "tromp",
@@ -7854,7 +7674,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 11, 4]
+                counts: [0, 13, 2]
             }
         },
         20102: {
@@ -7870,7 +7690,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02201": "trike",
@@ -7881,7 +7701,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 7, 2]
+                counts: [0, 8, 1]
             }
         },
         20101: {
@@ -7895,7 +7715,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00001": {
@@ -7907,7 +7727,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00012": "tower",
@@ -7923,7 +7743,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01002": "their",
@@ -7932,7 +7752,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 8, 7]
+                counts: [0, 11, 4]
             }
         },
         20120: {
@@ -7944,7 +7764,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         20121: "tress",
@@ -7963,14 +7783,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "tatty"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "00022": "tacky",
@@ -7986,12 +7806,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    11,
-                    1,
-                    2
-                ]
+                counts: [0, 12, 1, 1]
             }
         },
         22002: {
@@ -8002,7 +7817,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         22001: {
@@ -8017,14 +7832,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22222: "taxed"
             },
             depth: 1,
             ranking: {
-                counts: [0, 2, 2]
+                counts: [1, 2, 1]
             }
         },
         22010: {
@@ -8035,7 +7850,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         22012: "taste",
@@ -8049,7 +7864,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         22100: "tapir",
@@ -8084,7 +7899,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02021": "tonal",
@@ -8097,7 +7912,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 13, 2]
+                counts: [0, 14, 1]
             }
         },
         21001: "teach",
@@ -8132,7 +7947,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         21101: {
@@ -8145,7 +7960,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 4]
+                counts: [1, 3]
             }
         },
         21120: "trash",
@@ -8164,7 +7979,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02102": "might",
@@ -8173,7 +7988,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "00001": {
@@ -8187,7 +8002,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02201": "pithy",
@@ -8199,7 +8014,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02100": "fifty",
@@ -8211,7 +8026,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01100": {
@@ -8222,7 +8037,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01111": "itchy",
@@ -8231,7 +8046,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5, 8]
+                        counts: [1, 8, 4]
                     }
                 },
                 "00021": "cutup",
@@ -8246,7 +8061,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02102": "cubit",
@@ -8254,7 +8069,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "00011": {
@@ -8268,7 +8083,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02222": "gutty",
@@ -8277,7 +8092,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "00201": {
@@ -8288,7 +8103,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00102": {
@@ -8300,7 +8115,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00101": "nifty",
@@ -8312,7 +8127,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00112": {
@@ -8326,7 +8141,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "00111": "nutty",
@@ -8342,7 +8157,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02202": "potty",
@@ -8355,7 +8170,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7, 2]
+                        counts: [1, 7, 1]
                     }
                 },
                 "02012": "moult",
@@ -8370,7 +8185,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "youth",
@@ -8378,7 +8193,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "02201": "month",
@@ -8390,7 +8205,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02101": "notch",
@@ -8406,14 +8221,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 3]
+                                counts: [1, 2]
                             }
                         },
                         22222: "mount"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 3]
+                        counts: [1, 1, 2]
                     }
                 },
                 "01002": {
@@ -8425,7 +8240,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01001": {
@@ -8437,7 +8252,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01022": {
@@ -8449,7 +8264,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01012": "ought",
@@ -8469,7 +8284,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 20011: "dutch",
@@ -8484,12 +8299,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    24,
-                    49,
-                    21
-                ]
+                counts: [1, 39, 43, 11]
             }
         },
         10002: {
@@ -8512,7 +8322,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01200": "unite",
@@ -8522,7 +8332,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 13, 2]
+                counts: [0, 14, 1]
             }
         },
         10001: {
@@ -8539,7 +8349,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "00001": {
@@ -8555,7 +8365,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 "00022": "exult",
@@ -8568,7 +8378,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00011": {
@@ -8581,7 +8391,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00202": {
@@ -8592,7 +8402,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00102": {
@@ -8608,7 +8418,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 "00101": "ethic",
@@ -8621,7 +8431,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00111": "intel",
@@ -8633,7 +8443,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02011": {
@@ -8644,7 +8454,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01002": {
@@ -8656,7 +8466,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01001": "often",
@@ -8678,7 +8488,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10012: "veldt",
@@ -8693,7 +8503,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 12001: {
@@ -8704,7 +8514,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11001: {
@@ -8715,13 +8525,13 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 }
             },
             depth: 1,
             ranking: {
-                counts: [0, 17, 47]
+                counts: [0, 31, 33]
             }
         },
         10020: {
@@ -8742,7 +8552,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01101": "moist",
@@ -8751,7 +8561,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 10, 2]
+                counts: [0, 11, 1]
             }
         },
         10021: {
@@ -8766,7 +8576,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01222": "exist",
@@ -8775,7 +8585,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 4, 2]
+                counts: [1, 4, 1]
             }
         },
         10010: {
@@ -8789,7 +8599,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00001": {
@@ -8803,7 +8613,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02010": "gusty",
@@ -8816,7 +8626,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01010": "stung",
@@ -8826,7 +8636,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6, 4]
+                        counts: [0, 8, 2]
                     }
                 },
                 "00022": {
@@ -8840,14 +8650,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "snoot"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "00021": "stood",
@@ -8879,7 +8689,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 9]
+                        counts: [1, 8]
                     }
                 },
                 "00101": "lusty",
@@ -8895,7 +8705,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "02201": "silty",
@@ -8908,7 +8718,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "01001": {
@@ -8922,7 +8732,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 5]
+                        counts: [1, 4]
                     }
                 },
                 "01011": "stoic",
@@ -8939,12 +8749,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    17,
-                    33,
-                    6
-                ]
+                counts: [0, 23, 30, 3]
             }
         },
         10012: {
@@ -8958,7 +8763,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00020": "stoke",
@@ -8973,7 +8778,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10000: "smote",
@@ -8981,7 +8786,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 6, 4]
+                counts: [0, 8, 2]
             }
         },
         10011: {
@@ -8998,7 +8803,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         20221: "steed",
@@ -9006,7 +8811,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 20022: "steel",
@@ -9021,7 +8826,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 20011: "smelt",
@@ -9041,7 +8846,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 10010: {
@@ -9054,7 +8859,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 10120: "inset",
@@ -9064,12 +8869,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    14,
-                    13,
-                    2
-                ]
+                counts: [0, 18, 10, 1]
             }
         },
         10200: {
@@ -9084,7 +8884,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02001": "dirty",
@@ -9096,7 +8896,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02111": "girth",
@@ -9106,7 +8906,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 6, 4]
+                counts: [0, 8, 2]
             }
         },
         10202: "forte",
@@ -9121,7 +8921,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 5]
+                counts: [1, 4]
             }
         },
         10220: {
@@ -9134,7 +8934,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 4]
+                counts: [1, 3]
             }
         },
         10210: {
@@ -9146,7 +8946,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         10211: {
@@ -9157,7 +8957,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         10100: {
@@ -9174,7 +8974,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00222": "front",
@@ -9187,7 +8987,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02002": "right",
@@ -9204,7 +9004,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01001": "fritz",
@@ -9219,7 +9019,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 18, 8]
+                counts: [0, 21, 5]
             }
         },
         10102: {
@@ -9236,7 +9036,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10222: "brute",
@@ -9245,7 +9045,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 6, 2]
+                counts: [1, 6, 1]
             }
         },
         10101: {
@@ -9261,7 +9061,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00221": {
@@ -9275,7 +9075,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "01222": "enter",
@@ -9283,7 +9083,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "00210": {
@@ -9299,7 +9099,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 7]
+                        counts: [1, 6]
                     }
                 },
                 "00120": "other",
@@ -9314,7 +9114,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02120": "rivet",
@@ -9329,7 +9129,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 20220: "cuter",
@@ -9340,12 +9140,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    12,
-                    18,
-                    2
-                ]
+                counts: [0, 17, 14, 1]
             }
         },
         10120: {
@@ -9359,7 +9154,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02222": "grist",
@@ -9368,7 +9163,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3, 2]
+                counts: [1, 3, 1]
             }
         },
         10121: {
@@ -9379,7 +9174,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         10110: {
@@ -9395,7 +9190,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00202": "story",
@@ -9410,7 +9205,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 11, 2]
+                counts: [0, 12, 1]
             }
         },
         10112: "store",
@@ -9429,7 +9224,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "00201": "haunt",
@@ -9439,7 +9234,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4, 2]
+                        counts: [0, 5, 1]
                     }
                 },
                 "00001": {
@@ -9466,7 +9261,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00202": "faint",
@@ -9483,7 +9278,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01001": {
@@ -9498,14 +9293,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "waltz"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2, 2]
+                        counts: [1, 2, 1]
                     }
                 },
                 "01201": "laity",
@@ -9517,7 +9312,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 20012: "caput",
@@ -9541,12 +9336,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    13,
-                    22,
-                    4
-                ]
+                counts: [0, 17, 20, 2]
             }
         },
         12002: {
@@ -9563,14 +9353,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22222: "latte"
             },
             depth: 1,
             ranking: {
-                counts: [0, 4, 2]
+                counts: [1, 4, 1]
             }
         },
         12001: {
@@ -9584,7 +9374,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01012": "facet",
@@ -9609,7 +9399,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 6, 6]
+                counts: [0, 7, 5]
             }
         },
         12020: {
@@ -9620,7 +9410,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         12010: {
@@ -9650,7 +9440,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00001": "haste",
@@ -9660,7 +9450,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 4, 2]
+                counts: [0, 5, 1]
             }
         },
         12011: "sated",
@@ -9676,14 +9466,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22222: "warty"
             },
             depth: 1,
             ranking: {
-                counts: [0, 2, 2]
+                counts: [1, 2, 1]
             }
         },
         12202: "carte",
@@ -9695,7 +9485,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         12100: {
@@ -9707,7 +9497,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 3]
+                counts: [1, 2]
             }
         },
         12101: {
@@ -9724,14 +9514,14 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         22222: "water"
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 1, 2]
+                        counts: [1, 1, 1]
                     }
                 },
                 "00002": "rated",
@@ -9742,12 +9532,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    5,
-                    1,
-                    2
-                ]
+                counts: [0, 6, 1, 1]
             }
         },
         12110: "satyr",
@@ -9766,7 +9551,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00001": "aunty",
@@ -9780,7 +9565,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00021": {
@@ -9791,7 +9576,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00012": "giant",
@@ -9803,7 +9588,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00202": {
@@ -9814,7 +9599,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "00201": "quota",
@@ -9831,7 +9616,7 @@ export default {
                             },
                             depth: 1,
                             ranking: {
-                                counts: [0, 2]
+                                counts: [1, 1]
                             }
                         },
                         "02212": "aloft",
@@ -9840,7 +9625,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3, 2]
+                        counts: [1, 3, 1]
                     }
                 },
                 "02102": "allot",
@@ -9857,12 +9642,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [
-                    0,
-                    16,
-                    19,
-                    2
-                ]
+                counts: [0, 22, 14, 1]
             }
         },
         11002: {
@@ -9880,14 +9660,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10101: "ovate"
             },
             depth: 1,
             ranking: {
-                counts: [0, 5, 2]
+                counts: [0, 6, 1]
             }
         },
         11001: {
@@ -9903,7 +9683,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "00201": "exact",
@@ -9918,7 +9698,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 3]
+                        counts: [1, 2]
                     }
                 },
                 "00101": "acted",
@@ -9933,7 +9713,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01220": "leant",
@@ -9947,7 +9727,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 4]
+                        counts: [1, 3]
                     }
                 },
                 "01101": "eclat",
@@ -9958,7 +9738,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 13, 13]
+                counts: [0, 17, 9]
             }
         },
         11020: {
@@ -9974,7 +9754,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 7]
+                counts: [1, 6]
             }
         },
         11021: {
@@ -10006,7 +9786,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 6]
+                        counts: [1, 5]
                     }
                 },
                 "00221": "staph",
@@ -10023,7 +9803,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "01101": "atlas",
@@ -10034,7 +9814,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 12, 8]
+                counts: [0, 14, 6]
             }
         },
         11012: {
@@ -10050,7 +9830,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 "02120": "slate",
@@ -10060,7 +9840,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 6, 2]
+                counts: [0, 7, 1]
             }
         },
         11011: {
@@ -10076,7 +9856,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 10101: "steam",
@@ -10084,7 +9864,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 4, 2]
+                counts: [0, 5, 1]
             }
         },
         11200: {
@@ -10095,7 +9875,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 2]
+                counts: [1, 1]
             }
         },
         11210: {
@@ -10109,7 +9889,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 22222: "stray",
@@ -10125,7 +9905,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 12001: "wrath",
@@ -10137,7 +9917,7 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11002: {
@@ -10148,14 +9928,14 @@ export default {
                     },
                     depth: 1,
                     ranking: {
-                        counts: [0, 2]
+                        counts: [1, 1]
                     }
                 },
                 11001: "ultra"
             },
             depth: 1,
             ranking: {
-                counts: [0, 7, 8]
+                counts: [1, 10, 4]
             }
         },
         11100: "argot",
@@ -10188,7 +9968,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 10]
+                counts: [1, 9]
             }
         },
         11120: "artsy",
@@ -10204,7 +9984,7 @@ export default {
             },
             depth: 1,
             ranking: {
-                counts: [0, 6]
+                counts: [1, 5]
             }
         },
         11112: "stare",
@@ -10212,13 +9992,6 @@ export default {
     },
     depth: 1,
     ranking: {
-        counts: [
-            0,
-            33,
-            1105,
-            1656,
-            335,
-            28
-        ]
+        counts: [0, 81, 1484, 1374, 203, 15]
     }
 };
